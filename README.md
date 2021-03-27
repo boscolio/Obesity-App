@@ -1,3 +1,6 @@
-# Dash Template
+# Obesity Rate Prediction Application
 
-[Instructions](https://lambdaschool.github.io/ds/unit2/dash-template/)
+An application to predict obesity rates of US counties based on changes to factors such as food stores and restaurants.
+
+Built using Python, Plotly and Dash.
+
